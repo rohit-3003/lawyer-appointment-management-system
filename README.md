@@ -93,15 +93,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-✅ **Why this README is great:**
-- **Clear project description** and why it exists.
-- **Feature list** so recruiters/devs know what it does.
-- **Tech stack & installation steps** — quick for others to try.
-- **Screenshot section** (optional, professional touch).
-- **Future improvements** — shows you can think ahead.
-- **License section** — standard practice on GitHub.
-
----
-
-Would you like me to also create a **sample `mockData.js` file structure** (for law firms & lawyers) and include it in the README so others can easily understand and modify the data?
-```
